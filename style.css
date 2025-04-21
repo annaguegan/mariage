@@ -160,7 +160,7 @@ body {
     top: 5%; /* Ajuste la position verticale */
     left: 50%; /* Centre horizontalement */
     transform: translateX(-50%); /* Centrage de l'image */
-    width: 45%; /* Ajuste la taille de l'image */
+    width: 50%; /* Ajuste la taille de l'image */
     height: auto; /* Garde les proportions */
     z-index:15;
     border-radius : 50%;
